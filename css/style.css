@@ -1,0 +1,39 @@
+
+.text-judul {
+    text-align: left;
+    color: #c60021;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+.left-text {
+    text-align: left;
+
+}
+
+.img-hero {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.content {
+    line-height: 2;
+    font-family: Roboto Mono,Roboto,system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+
+.passion {
+    font-weight: 300;
+    font-family: Roboto Mono,Roboto,system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+
+.passion-span {
+    color: #333333;
+    font-weight: 500;
+}
+
+.list-socmed {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
